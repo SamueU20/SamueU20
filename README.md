@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -36,6 +35,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [implementation of the PythonBirds game.](https://github.com/SamueU20/pythonbirds)
+- [improving phases](https://github.com/SamueU20/pythonbirds/tree/simples/fases)
+- [testing phase](https://github.com/SamueU20/pythonbirds/blob/simples/testes/atores_testes.py)
+- [Adding Exceptions](https://github.com/SamueU20/pythonbirds/blob/simples/atores.py)
+- [Final graphic version](https://github.com/SamueU20/pythonbirds/blob/simples/placa_grafica.py)
 <!-- GIF -->
 <p align="left">
 <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -68,28 +72,6 @@
   
     
     
-<!--- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -119,3 +101,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
