@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=217d69&height=120&section=header"/>  
+    
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -67,8 +69,6 @@
     <h3>Libraries</h3>
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
-    
-    
   
     
     
